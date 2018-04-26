@@ -1,10 +1,10 @@
 {
- "name": "Sobat Cerita",
+ "name": "SobatCerita",
   "short_name": "SobatCerita",
   "start_url": "https://sobatceritamu.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#00626B",
+  "theme_color": "#85f96b",
   "description": "Sobat Cerita adalah situs yang berisi artikel-artikel informatif edukatif dan inspiratif. Tempat berbagi cerita pengalaman ilmu dan curhat.",
  "icons": [
   {
